@@ -1,10 +1,9 @@
 <!-- Header Image -->
 <img src="docs/images/header_icon.png" height="110px" align="right">
 
-<!-- Shields -->
+<!-- Shields be sure to update them -->
 ![License](https://img.shields.io/github/license/sortedcord/vue-notes?style=for-the-badge)
-![Vuejs](https://shields.io/badge/VUEJS-3.x-blue?logo=vuedotjs&style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/last-commit/sortedcord/vue-notes?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/last-commit/sortedcord/notes-template?style=for-the-badge)
 
 <!-- Replace "Course" with your courses' topic -->
 # Course Notes 
@@ -47,10 +46,6 @@
 This is an important section and do not take this lightly as it can be helpful to you as well as other people who want to do the same course. You can write about the overall quality of the course 
 - how well the instructor taught
 - whether the homework/exercises/assignments provided were helpful
-- quality of the quizzes
-- Speed at which topics were taught
-- Clarity at the end of the course
-- Practicality
 
 Then you can talk about quizzes and tests that happen at the end of every section to test the knowledge. Whether they were helpful, challenging, overly difficult, very easy, etc. Next thing to elaborate upon would the speed at which concepts were taught. Did you find yourself rewinded or going back to certain lectures to understand thigs better? Were there any lectures where you would advise people to pay more focus on. Were there any topics that weren't covered or taught adequately. 
 
