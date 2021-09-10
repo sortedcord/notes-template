@@ -25,8 +25,8 @@
 
 <!-- Replace the section1/section2 with the topic that include the notes. -->
 1.  ### Section 1
-	1. [I felt this is important](notes/first.md#an-important-section)
-	2. [This can come in handy](notes/first.md#handy-section)
+	1. [I felt this is important](notes/first.md#an-important-section) : Definition of the term perhaps
+	2. [This can come in handy](notes/first.md#handy-section) : Definition can go here as well
 
 
 2.  ### Section 2 
