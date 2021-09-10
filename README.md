@@ -58,9 +58,11 @@ Last but not the least, any supplementary courses you would recommend to complet
 - [Documentation](#)
 - [Course Link](#)
   
+### Articles
 - [Articles that you would like others to read](#)
 - [another article](#)
   
+### Youtube Videos
 - [Some youtube video that might be helpful](#)
 - [perhaps?](#)
 		
