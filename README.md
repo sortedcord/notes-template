@@ -2,7 +2,7 @@
 <img src="docs/images/header_icon.png" height="110px" align="right">
 
 <!-- Shields be sure to update them -->
-![License](https://img.shields.io/github/license/sortedcord/vue-notes?style=for-the-badge)
+![License](https://img.shields.io/github/license/sortedcord/notes-template?style=for-the-badge)
 ![Commit Activity](https://img.shields.io/github/last-commit/sortedcord/notes-template?style=for-the-badge)
 
 <!-- Replace "Course" with your courses' topic -->
